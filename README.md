@@ -1,6 +1,7 @@
 # Minicurso de autoML com H2O 
 
 IFMG campus Bambuí 27/09/18
+III Semana de Engenharia, Tecnologia e Computação (SETC)
 
 # Parte 1:
 Os exemplos 1 e 2 foram retirados do livro:
